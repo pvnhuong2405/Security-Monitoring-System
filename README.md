@@ -4,12 +4,12 @@
 
 - Tạo thư mục mới cho mỗi người:
   datasets/new_persons/
-  └── ten-nguoi1/
-  ├── image1.jpg
-  └── image2.jpg
-  └── ten-nguoi2/
-  ├── image1.jpg
-  └── image2.jpg
+        └── ten-nguoi1/
+        ├── image1.jpg
+        └── image2.jpg
+        └── ten-nguoi2/
+        ├── image1.jpg
+        └── image2.jpg
 - chạy python add_persons.py: thêm nhiều khuôn mặt
 - chạy python recognize.py: nhận diện khuôn mặt
 
