@@ -1,5 +1,5 @@
 # Real-Time Face Recognition
-
+![nhandien](images/example.png)
 ## Thêm người mới vào cơ sở dữ liệu
 
 - Tạo thư mục mới cho mỗi người:
