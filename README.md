@@ -3,13 +3,7 @@
 ## Thêm người mới vào cơ sở dữ liệu
 
 - Tạo thư mục mới cho mỗi người:
-  datasets/new_persons/
-        └── ten-nguoi1/
-        ├── image1.jpg
-        └── image2.jpg
-        └── ten-nguoi2/
-        ├── image1.jpg
-        └── image2.jpg
+  <pre> ``` datasets/new_persons/ ├── ten-nguoi1/ │ ├── image1.jpg │ └── image2.jpg └── ten-nguoi2/ ├── image1.jpg └── image2.jpg ``` </pre>
 - chạy python add_persons.py: thêm nhiều khuôn mặt
 - chạy python recognize.py: nhận diện khuôn mặt
 
