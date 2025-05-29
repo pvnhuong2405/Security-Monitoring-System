@@ -1,5 +1,5 @@
 # Real-Time Face Recognition
-![nhandien](images/example.png)
+![image](https://github.com/user-attachments/assets/bd08632a-1687-4f6e-b9d7-9cc95e12f724)
 ## Thêm người mới vào cơ sở dữ liệu
 
 - Tạo thư mục mới cho mỗi người:
